@@ -10,4 +10,4 @@
 
 ## githubfolder
 
-* [FAQ](githubfolder/githubmd.md)
+* [githubmd](githubfolder/githubmd.md)
