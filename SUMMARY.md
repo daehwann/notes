@@ -7,3 +7,7 @@
 
 * [FAQ](group1/faq.md)
 
+
+## githubfolder
+
+* [FAQ](githubfolder/githubmd.md)
